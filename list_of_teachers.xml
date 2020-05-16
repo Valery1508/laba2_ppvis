@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teachers>
+    <teacher>
+        <faculty>ФИТиУ</faculty>
+        <department>Кафедра интеллектуальных систем</department>
+        <firstNameTeacher>Лера</firstNameTeacher>
+        <secondNameTeacher>Зубрицкая</secondNameTeacher>
+        <otchestvoTeacher>Геннадьевна</otchestvoTeacher>
+        <academicRank>Доцент</academicRank>
+        <academicDegree>Доктор наук</academicDegree>
+        <seniority>14</seniority>
+    </teacher>
+    <teacher>
+        <faculty>КСИС</faculty>
+        <department>Кафедра программирования</department>
+        <firstNameTeacher>Дима</firstNameTeacher>
+        <secondNameTeacher>Шкадр</secondNameTeacher>
+        <otchestvoTeacher>Васильевич</otchestvoTeacher>
+        <academicRank>Профессор</academicRank>
+        <academicDegree>Доктор наук</academicDegree>
+        <seniority>8</seniority>
+    </teacher>
+    <teacher>
+        <faculty>ИЭФ</faculty>
+        <department>Кафедра экономики</department>
+        <firstNameTeacher>Катя</firstNameTeacher>
+        <secondNameTeacher>Олошич</secondNameTeacher>
+        <otchestvoTeacher>Васильевна</otchestvoTeacher>
+        <academicRank>Старший преподаватель</academicRank>
+        <academicDegree>Кандидат наук</academicDegree>
+        <seniority>9</seniority>
+    </teacher>
+	<teacher>
+        <faculty>ФИК</faculty>
+        <department>Кафедра интеллектуальных систем</department>
+        <firstNameTeacher>Анна</firstNameTeacher>
+        <secondNameTeacher>Зубрицкая</secondNameTeacher>
+        <otchestvoTeacher>Павловна</otchestvoTeacher>
+        <academicRank>Доцент</academicRank>
+        <academicDegree>Доктор наук</academicDegree>
+        <seniority>8</seniority>
+    </teacher>
+	<teacher>
+        <faculty>ФИТиУ</faculty>
+        <department>Кафедра интеллектуальных систем</department>
+        <firstNameTeacher>Лера</firstNameTeacher>
+        <secondNameTeacher>Зубрицкая</secondNameTeacher>
+        <otchestvoTeacher>Геннадьевна</otchestvoTeacher>
+        <academicRank>Старший преподаватель</academicRank>
+        <academicDegree>Кандидат наук</academicDegree>
+        <seniority>5</seniority>
+    </teacher>
+	<teacher>
+        <faculty>ФИТиУ</faculty>
+        <department>Кафедра интеллектуальных систем</department>
+        <firstNameTeacher>Екатерина</firstNameTeacher>
+        <secondNameTeacher>Олешкевич</secondNameTeacher>
+        <otchestvoTeacher>Павловна</otchestvoTeacher>
+        <academicRank>Старший преподаватель</academicRank>
+        <academicDegree>Кандидат наук</academicDegree>
+        <seniority>12</seniority>
+    </teacher>
+	<teacher>
+        <faculty>ФИТиУ</faculty>
+        <department>Кафедра интеллектуальных систем</department>
+        <firstNameTeacher>Егор</firstNameTeacher>
+        <secondNameTeacher>Макарчук</secondNameTeacher>
+        <otchestvoTeacher>Валерьевич</otchestvoTeacher>
+        <academicRank>Доцент</academicRank>
+        <academicDegree>Кандидат наук</academicDegree>
+        <seniority>5</seniority>
+    </teacher>
+	<teacher>
+        <faculty>ФИТиУ</faculty>
+        <department>Кафедра интеллектуальных систем</department>
+        <firstNameTeacher>Даниил</firstNameTeacher>
+        <secondNameTeacher>Плявго</secondNameTeacher>
+        <otchestvoTeacher>Александрович</otchestvoTeacher>
+        <academicRank>Профессор</academicRank>
+        <academicDegree>Доктор наук</academicDegree>
+        <seniority>7</seniority>
+    </teacher>
+	<teacher>
+        <faculty>ФИТиУ</faculty>
+        <department>Кафедра интеллектуальных систем</department>
+        <firstNameTeacher>Глеб</firstNameTeacher>
+        <secondNameTeacher>Коктышев</secondNameTeacher>
+        <otchestvoTeacher>Геннадьевич</otchestvoTeacher>
+        <academicRank>Доцент</academicRank>
+        <academicDegree>Доктор наук</academicDegree>
+        <seniority>9</seniority>
+    </teacher>
+	<teacher>
+        <faculty>ФИТиУ</faculty>
+        <department>Кафедра интеллектуальных систем</department>
+        <firstNameTeacher>Алексей</firstNameTeacher>
+        <secondNameTeacher>Пушкин</secondNameTeacher>
+        <otchestvoTeacher>Иванович</otchestvoTeacher>
+        <academicRank>Профессор</academicRank>
+        <academicDegree>Доктор наук</academicDegree>
+        <seniority>4</seniority>
+    </teacher>
+	<teacher>
+        <faculty>ФИТиУ</faculty>
+        <department>Кафедра интеллектуальных систем</department>
+        <firstNameTeacher>Роман</firstNameTeacher>
+        <secondNameTeacher>Макарчук</secondNameTeacher>
+        <otchestvoTeacher>Даниилович</otchestvoTeacher>
+        <academicRank>Профессор</academicRank>
+        <academicDegree>Кандидат наук</academicDegree>
+        <seniority>5</seniority>
+    </teacher>
+	<teacher>
+        <faculty>ФИТиУ</faculty>
+        <department>Кафедра интеллектуальных систем</department>
+        <firstNameTeacher>Егор</firstNameTeacher>
+        <secondNameTeacher>Макачук</secondNameTeacher>
+        <otchestvoTeacher>Валерьевич</otchestvoTeacher>
+        <academicRank>Доцент</academicRank>
+        <academicDegree>Кандидат наук</academicDegree>
+        <seniority>5</seniority>
+    </teacher>
+</teachers>
